@@ -22,4 +22,6 @@ JavaScript:           The core functionality, including time tracking and lap re
 Open Source:          The project is open source, and the code is available for anyone interested in learning from or 
                       contributing to the development.
 
+Project link----https://meena-2826.github.io/stopwatch-web-application/
+
 
